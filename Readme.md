@@ -93,7 +93,6 @@ Spikes occur during:
 ---
 
 ## 🖼️ Screenshots  
-(Add files inside `/images` and these will display automatically)
 
 ### **Price Trends**
 ![Price Trends](https://github.com/Souvik2730/volume-price-anomaly-detection/blob/main/Screenshots/Screenshot%202025-11-16%20232404.png)
@@ -136,6 +135,7 @@ scipy
 📧 Email: ghoruisouvik7@gmail.com  
 🔗 LinkedIn: [linkedin.com/in/souvik-ghorui273](https://linkedin.com/in/souvik-ghorui273)  
 💻 GitHub: [github.com/Souvik2730](https://github.com/Souvik2730)  
+
 
 
 
